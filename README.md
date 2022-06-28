@@ -2,7 +2,7 @@ Hi there! 👋
 
 ## 👨‍💻 博主是谁
 
-我叫 Hayato ，是本站的 Owner ，你也可以叫我“隼（sǔn）人大大”。我曾经名叫 Future_Maker 。
+我叫 Hayato ，是本主页的 Owner ，你也可以叫我“隼（sǔn）人大大”。我曾经名叫 Future_Maker 。
 
 我现在居于新疆。
 
