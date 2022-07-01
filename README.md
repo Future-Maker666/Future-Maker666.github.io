@@ -1,5 +1,7 @@
 Hi there! 👋
 
+![Metrics](https://metrics.lecoq.io/HayatoOvO?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
 ## 👨‍💻 博主是谁
 
 我叫 Hayato ，是本主页的 Owner ，你也可以叫我“隼（sǔn）人大大”。我曾经名叫 Future_Maker 。
