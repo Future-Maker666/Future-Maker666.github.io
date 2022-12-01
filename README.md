@@ -1,7 +1,7 @@
 Hi there! 👋
 
 <div align="center">
-    <img src="https://metrics.lecoq.io/HayatoOvO?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
+    <img src="https://github-readme-stats.vercel.app/api?username=HayatoOvO&template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 </div>
 
 <div align="center">
